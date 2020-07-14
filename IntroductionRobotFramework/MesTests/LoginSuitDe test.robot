@@ -14,6 +14,7 @@ Login Test
     Click Element    link=Logout 
     Log    Ceci est un test par %{Username} dans %{os}     
     Log    Fin de test    
+    Log    GitControl    
     Close Browser  
     # pour les commantaires
     
